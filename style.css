@@ -1,0 +1,30 @@
+#header {
+    width: 100%;
+    margin-top: 0px;
+    font-size: 30px;
+}
+
+#note {
+    width: 100%;
+}
+
+.diskimage {
+    width: 250px;
+    border-radius: 125px;
+}
+
+#div-speed {
+    float: left;
+}
+
+#div-volume {
+    float: right;
+}
+
+.text {
+    font-size: 25px;
+}
+
+canvas {
+    border: solid 10px brown;
+}
